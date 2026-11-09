@@ -1,1 +1,1 @@
-console.log("hello im lucky")
+console.log("hello im luc
